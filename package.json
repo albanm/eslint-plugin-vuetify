@@ -15,6 +15,7 @@
     "prepublishOnly": "npm run build"
   },
   "files": [
+    "src",
     "lib"
   ],
   "homepage": "https://github.com/vuetifyjs/eslint-plugin-vuetify#readme",
